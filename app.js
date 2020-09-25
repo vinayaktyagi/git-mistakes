@@ -14,6 +14,7 @@ function secondFunction(){
 	console.log("This is my secondFunction");
 	alert("change 1");
 	alert("change 2");
+	alert("change 3");
 }
 
 
