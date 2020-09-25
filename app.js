@@ -2,6 +2,7 @@
 
 function helloWorld(){
 	alert("Hi! ..post revert js change!");
+	alert("Hi from Github");
 }
 
 function secondFunction(){
