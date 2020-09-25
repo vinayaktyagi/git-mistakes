@@ -15,6 +15,11 @@ function secondFunction(){
 	alert("change 1");
 	alert("change 2");
 	alert("change 3");
+
+	alert("change 4 - in a rebase"); 
+
+	alert("change 5");
+
 }
 
 
